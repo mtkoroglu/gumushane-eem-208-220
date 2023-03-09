@@ -57,7 +57,7 @@ $$f(-10), f(-9.9), f(-9.8), \ldots, f(9.8), f(9.9), f(10)$$
 
 <p align="justify">Burada örnekleme periyodu dediğimiz $\delta x$'e aynı zamanda adım büyüklüğü (İng. step size) da diyebiliriz. Doğal olarak $\delta x$ küçüldükçe yukarıdaki terim sayısı artacaktır. Yukarıdaki terimlerin (son terim hariç) her birisini adım büyüklüğü ile çarpıp ardından toplayalım.</p>
 
-$$0.1f(-10)+0.1f(-9.9)+0.1f(-9.8)+ \ldots + 0.1f(9.8)+0.1f(9.9)+0.1f(10)$$
+$$0.1f(-10)+0.1f(-9.9)+0.1f(-9.8)+ \ldots + 0.1f(9.8)+0.1f(9.9)$$
 
 <p align="justify">Bu toplama nümerik integral denir. Burada $f(x)=2x$ fonksiyonunun $x=-10$'dan $x=10$'a kadar altındaki alanı bulmuş olduk. Analitik olarak ifade etmek gerekirse</p>
 
