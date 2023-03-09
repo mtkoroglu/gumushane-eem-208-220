@@ -40,12 +40,16 @@ plt.show()
 ```
 
 <figure>
-    <img src="figure/plot.jpg" alt="first example" width=%100 height=auto>
-    <figcaption>Nümerik ve abalitik türevi alınan kare fonksiyonu</figcaption>
+    <img src="figure/numerical-derivative.png" alt="numerical derivative first example" width=%50 height=auto>
+    <figcaption>Nümerik ve analitik türevi alınan kare fonksiyonu</figcaption>
 </figure>
 
-<p>We can similarly do a differentiation of other functions. For example, $f(x)=x^3-2x^2+1$. Find the derivative of this function using the rules of differentiation and compare your result with the result found using the rate of limits. Verify your result with the plot above. If you’re doing it correctly, you should see the following graph:</p>
+<p>Başka bir örnek olarak, $f(x)=x^3-2x^2+1$ fonksiyonun nümerik türevini alalım. Kod kısmında ilgili yerleri değiştirecek olursak aşağıdaki grafiği elde ederiz.</p>
 
+<figure>
+    <img src="figure/numerical-derivative-second-example.png" alt="numerical derivative second example" width=%50 height=auto>
+    <figcaption>Nümerik ve analitik türevi alınan başka bir fonksiyon</figcaption>
+</figure>
 
 <h2>Kaynaklar</h2>
 [1] https://machinelearningmastery.com/calculus-for-machine-learning-7-day-mini-course/
